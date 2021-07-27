@@ -6,6 +6,6 @@ import Bleed from 'nextra-theme-docs/bleed'
 Over the past few years, we have homeschooled our children in different formats, which can be summarized as follows:
 - Attending a private school (75-80 %) with supplementary private tutoring by us or other instructors
 - Enrolled in a fully online asynchronous program with additional private tutoring supplementary classes
-- Private school classes and homeschooling lessons equally distributed
+- Equally distributed private school classes and homeschooling lessons 
 
-We have used technical resources and tools that we have found helpful that we are sharing through site that could be beneficial to other parents.
+Along the way, we have used technical resources and tools that we have found to be helpful. We are happy to share them through this site, in the event that other parents may find them beneficial.
