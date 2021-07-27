@@ -12,11 +12,15 @@
   "license": "MIT",
   "dependencies": {
     "@formspree/react": "^2.2.3",
+    "@tailwindcss/forms": "^0.3.3",
+    "autoprefixer": "^10.3.1",
     "next": "^10.0.8-canary.9",
     "nextra": "^0.4.1",
     "nextra-theme-docs": "^1.1.2",
+    "postcss": "^8.3.6",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.2.7"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
