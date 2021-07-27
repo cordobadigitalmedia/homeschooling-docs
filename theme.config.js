@@ -56,5 +56,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>MIT {new Date().getFullYear()} © Cordoba Digital Media.</>,
+  footerText: <>MIT {new Date().getFullYear()} © Cordoba Digital Media | Powered by <a href="https://github.com/shuding/nextra">Nextra</a> and <a href="https://vercel.com">Vercel</a></>,
 }
