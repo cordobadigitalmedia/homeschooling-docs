@@ -1,4 +1,4 @@
-# Career Guidance for High School
+# Career Guidance in High School
 
 ## Approach
 Our general approach in the early to pre high school years has been to expose our children to as many real life skill based activities as possible in both structured and unstructured environments. These have included martial arts, horseriding, archery, calligraphy, singing, freehand drawing, remote control cars, hiking, camping and biking. Through these, it seems that children discover what kind of activities they enjoy doing and develop the gritt to focus on certain skills that they really enjoy and/or want to become good at. Depending on the child's character, it is sometimes useful for one of the parents to **nudge** the child in an area where one feels the child would have an aptitude for. Overall, one of the key aspects we found is to be a **keen observer** when the child is involved in those activities (not at all times but regularly and randomly).
