@@ -17,13 +17,8 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Homeschooling Docs: Technical Resources for Homeschooling Parents" />
       <meta name="og:description" content="Homeschooling Docs: Technical Resources for Homeschooling Parents" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="Homeschooling Docs: Technical Resources for Homeschooling Parents" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="Homeschooling Docs" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
