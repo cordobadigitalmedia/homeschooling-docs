@@ -39,7 +39,7 @@ function ContactForm() {
           <label class="block">
             <span class="text-gray-700">Your Feedback</span>
             <textarea
-              class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+              class="mt-1 px-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
               rows="3"
               id="message"
               name="message"
