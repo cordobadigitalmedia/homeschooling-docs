@@ -7,11 +7,14 @@ Our general approach in the early to pre high school years has been to expose ou
 Once the child starts their high school (Grade 10-12 in Canada), they will often take a career guidance course as part of the program. This often involves personality tests as well as general resources and guidance on managing finance and being able to live by oneself. As the child gets closer to grade 12, it becomes important to decide the next step:
 > Should they go to college/university? Should they take the path of apprenticeship? 
 
+We also encouraged them to volunteer for community service or take on projects or paid jobs based on skills they already have or want to develop.
+
 ## Process
 **College or university is not a goal for us**. We used the [Job Bank site](https://www.jobbank.gc.ca/home) from the Government of Canada to help our children explore what possible careers they may be inclined to do in life. These are the steps we followed:
 - Have your child sign up for an account [here](https://www.jobbank.gc.ca/reg/instructions)
 - Have them take the career quizzes [here](https://www.jobbank.gc.ca/career-planning/quizzes)
-- Based on the quizzes, have them explore the top choices. We looked at at least the first 20-30 possible choices and had them create a document where they shortlisted up to 5 possibilities. This does not require reviewing every single choice as several of them as skipped simply because there is no interest based on the title of the career.
+- Based on the quizzes, have them explore the top choices. We looked at the first 20-30 possible choices and had them create a document where they shortlisted up to 5 possibilities. This does not require reviewing every single choice as several of them were skipped simply because there was no interest based on the title of the career.
 - Look at the requirements for each career in terms of whether college/university is required. If yes, what program/s are needed and if not, what alternative path is needed such as certification from an external body or apprenticeship in the trade.
-- If college/university is required, pick one or two universities in your geographical location and find the high school requirements for the specific programs. That will then help your child select which grade 12 level subjects to select. In Canada, only grade 12 level subjects are required for College/University.
-- If college/university is not required for any of the careers selected, look at trends in the selections. For example, if they are technical related to working with machines, one could look at the requirements for engineering at college/university and then select the grade 12 subject based on that.
+- If College/University is required, pick one or two universities in your geographical location and find the high school requirements for the specific program/s. That will then help your child select which grade 12 level subjects to select. In Canada, only grade 12 level subjects are required for College/University.
+- If College/University is not required for any of the careers selected, look at trends in the selections. For example, if they are technical related to working with machines, one could look at the requirements for engineering at College/University and then select the grade 12 subjects based on that.
+
